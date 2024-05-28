@@ -22,6 +22,7 @@ const Home = () => {
 ];*/
 
 
+
 const navigate = useNavigate();
 const [despesas, setDespesas] = useState([]);
 const [total, setTotal] = useState(0);
